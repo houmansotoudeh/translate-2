@@ -20,7 +20,7 @@ jobs:
           gradle-version: '8.7'
 
       - name: Unzip project
-        run: unzip -o TalkTranslate.zip -d project
+        run: unzip -o '*.zip' -d project
 
       - name: Build APK
         working-directory: project/TalkTranslate
