@@ -1,0 +1,7 @@
+<resources>
+    <color name="bg">#FF121212</color>
+    <color name="red">#FFE53935</color>
+    <color name="red_pressed">#FF8E0000</color>
+    <color name="text">#FFFFFFFF</color>
+    <color name="text_dim">#FFB0B0B0</color>
+</resources>
